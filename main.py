@@ -1,6 +1,5 @@
-```
-Simple script converts word.docx manuscript to latex. 
-```
+#Simple script converts word.docx manuscript to latex. 
+
 import textract
 import re
 
